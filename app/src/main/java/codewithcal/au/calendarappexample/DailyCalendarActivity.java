@@ -91,4 +91,7 @@ public class DailyCalendarActivity extends AppCompatActivity
     {
         startActivity(new Intent(this, EventEditActivity.class));
     }
+
+    public void finishTask(View view) {
+    }
 }
